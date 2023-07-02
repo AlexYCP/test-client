@@ -1,7 +1,7 @@
 {
   "name": "test-client",
   "version": "0.1.0",
-  "homepage": "https://AlexYCP.github.io/test-client",
+  "homepage": "https://alexycp.github.io/test-client",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
